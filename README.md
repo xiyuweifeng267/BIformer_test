@@ -1,10 +1,4 @@
-ggggsdfskajdf
+这里是一句新建的话
+关于git的学习流程
+我添加了这段话
 
-
-dklasjldfj
-fslkajdlf
-fasjldkjfjlajdflksdf
-
-
-
-sjdlfksaldgg
