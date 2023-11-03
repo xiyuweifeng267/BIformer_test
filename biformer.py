@@ -28,8 +28,11 @@ from ops.bra_legacy import BiLevelRoutingAttention
 from ._common import Attention, AttentionLePE, DWConv
 
 # from positional_encodings import PositionalEncodingPermute2D, Summer
-# from siren_pytorch import SirenNet
+# from siren_pytorch import SirenNet  add some others information about git learning 
+# jflkdasjlkdjflkalskjdfklas
 
+
+# djflaskdjlfkajslkdfjlkjalskdjflkajslkdjfklakasljlf
 
 
 def get_pe_layer(emb_dim, pe_dim=None, name='none'):
